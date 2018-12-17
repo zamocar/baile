@@ -1,0 +1,11 @@
+commit 7c6851ea9715ffe5761e52ebfe20345ae09ff119
+Author: zamocarlos <zamocarlos@hotmail.com>
+Date:   Mon Dec 17 18:52:13 2018 +0100
+
+    cambios en el HTML de la vista
+
+commit 16f4f56d06e689ebb09dafa7ca3dfcd675419a76
+Author: zamocarlos <zamocarlos@hotmail.com>
+Date:   Mon Dec 17 18:45:38 2018 +0100
+
+    inicial
